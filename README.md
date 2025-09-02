@@ -1,4 +1,34 @@
-## Hi there 👋
+# Hi, I'm Alok Mukherjee
+
+ **Data Analyst** skilled in **Python, SQL, Power BI, and Excel**.  
+ Passionate about turning raw data into meaningful insights and building predictive models.  
+ Currently working on projects in **Data Analytics & Machine Learning**.  
+
+---
+
+##  Skills  
+- **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)  
+- **Databases:** MySQL, PostgreSQL  
+- **Visualization:** Power BI, Excel, Matplotlib, Seaborn  
+- **Other:** Data Cleaning, EDA, Predictive Modeling  
+
+---
+
+##  Featured Projects  
+-  [Flight Price Analytics](https://github.com/alok-insights-ai/flight-price-analytics)  
+-  [Coca-Cola Stock Price Prediction](https://github.com/alok-insights-ai/coca-cola-stock-ml)  
+-  [SQL Portfolio](https://github.com/alok-insights-ai/sql-projects)  
+
+---
+
+## Connect With Me  
+- [LinkedIn](https://www.linkedin.com/in/yourprofile)  
+- [GitHub](https://github.com/alok-insights-ai)  
+- 📧 Email: yourmail@example.com  
+
+---
+ *Thanks for visiting my profile! Check out my projects and feel free to connect.*  
+
 
 <!--
 **alok-insights-ai/alok-insights-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
