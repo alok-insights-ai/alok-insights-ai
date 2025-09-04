@@ -17,8 +17,7 @@
 ---
 
 ##  Featured Projects  
--  [Flight Price Analytics](https://github.com/alok-insights-ai/flight-price-analytics)  
--  [Coca-Cola Stock Price Prediction](https://github.com/alok-insights-ai/coca-cola-stock-ml)  
+-  [Flight Price Analytics](https://github.com/alok-insights-ai/flight-price-analytics)   
 -  [SQL Portfolio](https://github.com/alok-insights-ai/sql-projects)  
 
 ---
