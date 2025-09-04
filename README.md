@@ -4,6 +4,8 @@
  Passionate about turning raw data into meaningful insights and building predictive models.  
  Currently working on projects in **Data Analytics & Machine Learning**.  
 
+ ![image alt](https://github.com/alok-insights-ai/alok-insights-ai/blob/main/pic.jpg?raw=true)
+
 ---
 
 ##  Skills  
