@@ -24,7 +24,7 @@
 ## Connect With Me  
 - [LinkedIn](www.linkedin.com/in/alok-insights-ai)  
 - [GitHub](https://github.com/alok-insights-ai)  
-- Email: alok.insights.ai@gmail.com
+- [Email](alok.insights.ai@gmail.com)
 
 ---
  *Thanks for visiting my profile! Check out my projects and feel free to connect.*  
