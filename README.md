@@ -24,17 +24,10 @@
 
 ## Connect With Me  
 - [LinkedIn](www.linkedin.com/in/alok-insights-ai)  
-- [GitHub](https://github.com/alok-insights-ai)  
 - [Email](alok.insights.ai@gmail.com)
 
 ---
- *Thanks for visiting my profile! Check out my projects and feel free to connect.*  
-)  
-- [GitHub](https://github.com/alok-insights-ai)  
-- [Email](alok.insights.ai@gmail.com)  
-
-
-<!--
+ 
 **alok-insights-ai/alok-insights-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
