@@ -18,7 +18,8 @@
 
 ##  Featured Projects  
 -  [Flight Price Analytics](https://github.com/alok-insights-ai/flight-price-analytics)   
--  [SQL Portfolio](https://github.com/alok-insights-ai/SQL-Project-)  
+-  [SQL Portfolio](https://github.com/alok-insights-ai/SQL-Project-)
+-  [airport-data-analysis-sql](https://github.com/alok-insights-ai/airport-data-analysis-sql)
 
 ---
 
