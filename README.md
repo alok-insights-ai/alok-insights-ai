@@ -9,7 +9,7 @@
 ---
 
 ##  Skills  
-- **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn) ,SQl 
+- **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn) ,SQL 
 - **Databases:** MySQL, PostgreSQL  
 - **Visualization:** Power BI, Excel, Matplotlib, Seaborn, tablue
 - **Other:** Data Cleaning, EDA, Predictive Modeling,microsoft excel,microsoftpowerpoint,microsoft word  
