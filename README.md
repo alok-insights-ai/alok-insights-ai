@@ -21,7 +21,8 @@
 -  [SQL Portfolio](https://github.com/alok-insights-ai/SQL-Project-)
 -  [airport-data-analysis-sql](https://github.com/alok-insights-ai/airport-data-analysis-sql)
 -  [Coca-cola-stock analysis(Machine Learning)](https://github.com/alok-insights-ai/Coca-Cola-Stock-Analysis)
--  [Laptop-price-predictor](https://github.com/alok-insights-ai/Laptop-Price-Predictor) 
+-  [Laptop-price-prediction](https://github.com/alok-insights-ai/Laptop-Price-Predictor)
+-  [TCS_stock Price Prediction](https://github.com/alok-insights-ai/TCS-Stock-Price-Prediction/tree/main)
 ## Connect With Me  
 - [LinkedIn](www.linkedin.com/in/alok-insights-ai)  
 - [Email](alok.insights.ai@gmail.com)
